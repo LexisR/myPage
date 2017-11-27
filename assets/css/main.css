@@ -1,0 +1,24 @@
+#header{
+  background: #50D1E7;
+  color: #fff;
+}
+
+#title{
+  font-size: 30px;
+  float: left;
+}
+
+#info{
+  font-size: 18px;
+  text-align: -webkit-center;
+  padding: 30px;
+  font-weight: 40px;
+}
+
+#first-section{
+  background-image: url("../img/self3.jpg");
+  background-size: cover;
+  height: 580px;
+}
+
+
