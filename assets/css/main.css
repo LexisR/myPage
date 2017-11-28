@@ -20,6 +20,10 @@
   color: #fff;
 }
 
+.fa{
+  color: #59D3EA;
+}
+
 #first-section{
   background-image: url("../img/self3.jpg");
   background-size: cover;

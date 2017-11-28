@@ -2,14 +2,13 @@
   [class*="col-"]{
     width: 100%;
   }
-  body{
-    background-color: black;
-    color: white;
+  #header{
+    width: 100%;
   }
-  .img{
-    border: 6px solid white;
-    content: url(../images/plaza_de_armas_medias.jpg)
+  .row{
+    width: 100%;
   }
+  
 }
 @media (min-width: 200px) and (max-width: 543px){
   [class*="col-"]{
@@ -19,7 +18,23 @@
     background-color: #07B399;  
     color: #DFDFDF;
   }
-  .img{
+  .btn-first{
     display: none;
   }
+  #first-section{
+    background-image: url("../img/self5.jpg");
+   width: 100%;
+  }
+  
+  .fa{
+    color: #EA398F;
+    float: right;
+    margin-top: -50px;
+    height: 40%;
+    width: 20%;
+
+  }
+ 
 }
+
+
