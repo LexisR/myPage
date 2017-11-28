@@ -1,18 +1,22 @@
-#header{
+#header {
   background: #59D3EA;
   color: #fff;
 }
 
-#title{ 
+#title { 
   font-size: 30px;
   float: left;
 }
 
-#info{
-  text-align: -webkit-right;
+.paragraph{
+  text-align: justify;
 }
 
-.btn-first{
+#info {
+   text-align: justify;
+}
+
+.btn-first {
   background: #EA398F;
   height: 40px;
   width: 80px;
@@ -20,39 +24,52 @@
   color: #fff;
 }
 
-.fa{
+.first-paragraph{
+  text-align: justify;
+}
+
+#contact{
+  border: 2px solid #EA398F;
+  margin-top: 100px;
+  width: 250px;
+  height: 160px;
+  box-shadow: 10px 10px 5px;
+  float: right;
+}
+
+.fa {
   color: #59D3EA;
 }
 
-#first-section{
+#first-section {
   background-image: url("../img/self3.jpg");
   background-size: cover;
   height: 580px;
 }
 
-.first-title{
+.first-title { 
   text-align: center;
 }
 
-.line{
+.line {
   width: 50px;
   height: 5px;
   background: #EA398F;
   margin-left: 235px;
 }
 
-.first-paragraph{
-  text-align: center;
+.first-paragraph {
+  padding: 20px;
 }
 
-.line-1{
+.line-1 {
   width: 50px;
   height: 5px;
   background: #EA398F;
   margin-left: 40px;
 }
 
-#btn{
+#btn { 
   background: #EA398F;
   height: 40px;
   width: 100px;
@@ -60,12 +77,12 @@
   color: #fff;
 }
 
-#img1{
+#img1 {
   height: 150px;
   border-radius: 15px;
 }
 
-#btn2{
+#btn2 {
   background: #EA398F;
   height: 40px;
   width: 100px;
@@ -73,14 +90,14 @@
   color: #fff;
 }
 
-#footer{
+#footer {
   height: 70px;
   background: #59D3EA;
   width:100%;
   margin-top: 70px;
 }
 
-.last-text{
+.last-text {
   text-align: center;
   color: #fff;
 }
